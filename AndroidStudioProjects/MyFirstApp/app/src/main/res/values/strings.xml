@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="hello_world">Hello World!!</string>
+    <string name="image_desc">TODO</string>
+    <string name="be_happy">Find happiness :)</string>
+    <string name="smiley_face_desc">Smiley face</string>
+    <string name="be_happy_btn">Be happy!</string>
+</resources>

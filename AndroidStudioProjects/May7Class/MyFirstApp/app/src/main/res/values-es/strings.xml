@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Hola mundo!!</string>
+    <string name="be_happy">Encuentra la felicidad :)</string>
+    <string name="smiley_face_desc">Cara sonriente</string>
+    <string name="be_happy_btn">Sé feliz!</string>
+</resources>
